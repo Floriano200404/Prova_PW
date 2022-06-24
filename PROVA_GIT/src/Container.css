@@ -1,0 +1,43 @@
+.ContainerPai{
+   margin-left: 100px;
+   background-color: #F5F5DC;
+   text-align:  center;
+   width: 300px;
+}
+.pai{
+   display: flex;
+   text-align:  center;
+ justify-content: center;
+  
+
+}
+.Button{
+    background-color: #824394;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 6px;
+    align-items: center;
+    box-shadow: 1px 1px 6px black;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 100px;
+}
+.titulo1{
+    font-family: Helvetica;
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+.sub1{
+    font-family: Helvetica;
+    text-align: center;
+}
+.desc1{
+    font-family: Helvetica;
+    text-align: center;
+}
+.arrumar{
+    font-size: small;
+}
+
