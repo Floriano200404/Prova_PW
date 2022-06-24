@@ -1,0 +1,12 @@
+.ContainerPai{
+   margin-left: 100px;
+   background-color: aqua;
+}
+.pai{
+   display: flex;
+   background-color: purple;
+}
+.Button{
+    background-color: purple
+    
+}
