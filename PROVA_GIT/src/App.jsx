@@ -11,21 +11,26 @@ function App() {
 
   const Container2 = [
     {
+     
       titulo: "Start",
       sub: "Free",
-      desc: "1 user 1 Project",
+      desc: "1 user", 
+      desc1: "Project",
       text: "Order Now",
+      
     },
     {
       titulo: "Basic",
       sub: "$19.99",
-      desc: "5 Users 20 Project",
+      desc: "5 Users", 
+      desc1:"20 Project",
       text: "Order Now"
     },
     {
       titulo: "Expert",
       sub: "$129.99",
-      desc: " Unlimited Users Unlimited Projects",
+      desc: " Unlimited Users",
+      desc1: "Unlimited Projects",
       text: "Order Now"
     },
   ];
@@ -50,6 +55,7 @@ function App() {
               titulo={cont.titulo}
               sub={cont.sub}
               desc={cont.desc}
+              desc1={cont.desc1}
               text={cont.text}
             />;
           })
